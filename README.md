@@ -2,6 +2,7 @@
 # Hi, I am Daniel 👋🏻🧑🏻‍💻
 
 [![Twitter](https://img.shields.io/badge/SocialMedia-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=0099ff)](https://twitter.com/dani_smrec)
+[!Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)]
 
 > My name is Daniel Smrecnik and I am currently a student at HTL-Mössingerstrasse. I am passionate about codeing, working on 
 new projects and progressively learning new things.
@@ -24,7 +25,3 @@ new projects and progressively learning new things.
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0099ff)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=0099ff)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0099ff)
-
-
-<!-- links to your social media -->
-[2]: https://github.com/DanielSmrecnik
