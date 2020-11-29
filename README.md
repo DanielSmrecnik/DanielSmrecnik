@@ -1,4 +1,4 @@
-![[Header](/images/Github Banner.jpg)
+![Header](/images/Github Banner.jpg)
 # Hi, I am Daniel 👋🏻🧑🏻‍💻
 
 <!--
