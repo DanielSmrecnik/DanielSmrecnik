@@ -1,4 +1,4 @@
-[Header](https://github.com/DanielSmrecnik/DanielSmrecnik/blob/main/images/Github%20Banner.jpg "Header")
+[Header](https://github.com/DanielSmrecnik/DanielSmrecnik/blob/main/images/Github%20Banner.jpg)
 # Hi, I am Daniel 👋🏻🧑🏻‍💻
 
 > My name is Daniel Smrecnik and I am currently a student at HTL-Mössingerstrasse. I am passionate about codeing, working on 
