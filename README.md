@@ -4,10 +4,10 @@
 > My name is Daniel Smrecnik and I am currently a student at HTL-Mössingerstrasse. I am passionate about codeing, working on 
 new projects and progressively learning new things.
 
-🧑🏻‍💻 `Code`
-🍴    `Eat`
-💤    `Sleep`
-🔁    `Repeat`
+- 🧑🏻‍💻 `Code`
+- 🍴    `Eat`
+- 💤    `Sleep`
+- 🔁    `Repeat`
 
 ## Technologies & Tools 🛠
 ![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=apple&logoColor=white&color=0099ff)
