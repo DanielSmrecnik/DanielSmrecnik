@@ -11,7 +11,7 @@ new projects and progressively learning new things.
 
  Find me on: 
  * [![Twitter][1.2]][1]
- * [![Github][2.2]][1]
+ * [![Github][2.2]][2]
 
 ## Technologies & Tools 🛠
 ![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=apple&logoColor=white&color=0099ff)
@@ -32,5 +32,5 @@ new projects and progressively learning new things.
 [2.2]: http://i.imgur.com/9I6NRUm.png
 
 <!-- links to your social media -->
-[1]: https://twitter.com/Daniel_Smrecnik_
+[1]: https://twitter.com/dani_smrec
 [2]: https://github.com/DanielSmrecnik
