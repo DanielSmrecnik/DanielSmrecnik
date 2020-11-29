@@ -9,7 +9,8 @@ new projects and progressively learning new things.
 - 💤    `Sleep`
 - 🔁    `Repeat`
 
-You can find me on [![Twitter][1.2]][1]
+ Find me on: 
+ - [![Twitter][1.2]][1]
 
 ## Technologies & Tools 🛠
 ![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=apple&logoColor=white&color=0099ff)
@@ -29,5 +30,5 @@ You can find me on [![Twitter][1.2]][1]
 [1]: https://twitter.com/Daniel_Smrecnik_
 
 <!-- links to your social media -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding
-[1]: https://twitter.com/Daniel_Smrecnik_
+[1]: http://i.imgur.com/wWzX9uB.png
+[2]: https://twitter.com/Daniel_Smrecnik_
