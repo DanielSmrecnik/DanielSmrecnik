@@ -1,4 +1,5 @@
-### Hi there 👋
+![Header]
+# Hi, I am Daniel 👋🏻🧑🏻‍💻
 
 <!--
 **DanielSmrecnik/DanielSmrecnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
