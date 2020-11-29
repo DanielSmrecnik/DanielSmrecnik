@@ -2,7 +2,7 @@
 # Hi, I am Daniel 👋🏻🧑🏻‍💻
 
 [![Twitter](https://img.shields.io/badge/SocialMedia-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=0099ff)](https://twitter.com/dani_smrec)
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)
+![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)
 
 > My name is Daniel Smrecnik and I am currently a student at HTL-Mössingerstrasse. I am passionate about codeing, working on 
 new projects and progressively learning new things.
