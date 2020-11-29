@@ -9,6 +9,8 @@ new projects and progressively learning new things.
 - 💤    `Sleep`
 - 🔁    `Repeat`
 
+You can find me on [![Twitter][1.2]][1]
+
 ## Technologies & Tools 🛠
 ![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=apple&logoColor=white&color=0099ff)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0099ff)
@@ -22,3 +24,6 @@ new projects and progressively learning new things.
 ![](https://img.shields.io/badge/Framework-NestJs-informational?style=flat&logo=nestjs&logoColor=white&color=0099ff)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0099ff)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0099ff)
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding
+[1]: https://twitter.com/Daniel_Smrecnik_
