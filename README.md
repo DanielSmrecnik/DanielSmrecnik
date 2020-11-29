@@ -1,4 +1,4 @@
-![Header](/images/Github Banner.jpg)
+![Header](https://github.com/DanielSmrecnik/DanielSmrecnik/blob/main/images/Github%20Banner.jpg)
 # Hi, I am Daniel 👋🏻🧑🏻‍💻
 
 <!--
