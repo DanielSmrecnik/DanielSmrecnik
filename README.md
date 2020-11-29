@@ -1,7 +1,7 @@
 ![Header](https://github.com/DanielSmrecnik/DanielSmrecnik/blob/main/images/Github%20Banner.jpg "Header")
 # Hi, I am Daniel 👋🏻🧑🏻‍💻
 
-[![Twitter](https://img.shields.io/badge/SocialMedia-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=0099ff)]([1])
+[![Twitter](https://img.shields.io/badge/SocialMedia-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=0099ff)](https://twitter.com/dani_smrec)
 
 > My name is Daniel Smrecnik and I am currently a student at HTL-Mössingerstrasse. I am passionate about codeing, working on 
 new projects and progressively learning new things.
@@ -10,10 +10,6 @@ new projects and progressively learning new things.
 - 🍴    `Eat`
 - 💤    `Sleep`
 - 🔁    `Repeat`
-
- Find me on: 
- * [![Twitter][1.2]][1]
- * [![Github][2.2]][2]
 
 ## Technologies & Tools 🛠
 ![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=apple&logoColor=white&color=0099ff)
@@ -29,10 +25,6 @@ new projects and progressively learning new things.
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=0099ff)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0099ff)
 
-<!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: http://i.imgur.com/9I6NRUm.png
 
 <!-- links to your social media -->
-[1]: https://twitter.com/dani_smrec
 [2]: https://github.com/DanielSmrecnik
