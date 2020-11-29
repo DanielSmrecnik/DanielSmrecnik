@@ -10,7 +10,7 @@ new projects and progressively learning new things.
 - 🔁    `Repeat`
 
  Find me on: 
- - ![Twitter][1.2]][1]
+ - [![Twitter][1.2]][1]
 
 ## Technologies & Tools 🛠
 ![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=apple&logoColor=white&color=0099ff)
@@ -27,7 +27,7 @@ new projects and progressively learning new things.
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0099ff)
 
 <!-- Icons -->
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png
 
 <!-- links to your social media -->
 [1]: http://i.imgur.com/wWzX9uB.png
