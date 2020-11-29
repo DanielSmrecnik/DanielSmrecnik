@@ -6,4 +6,4 @@ new projects and progressively learning new things.
 
 ## Technologies & Tools 🛠
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=#0099ff)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0099ff)
