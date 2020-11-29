@@ -1,7 +1,7 @@
 ![Header](https://github.com/DanielSmrecnik/DanielSmrecnik/blob/main/images/Github%20Banner.jpg "Header")
 # Hi, I am Daniel 👋🏻🧑🏻‍💻
 
-![][(https://img.shields.io/badge/SocialMedia-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=0099ff)][1]
+![](https://img.shields.io/badge/SocialMedia-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=0099ff)[1]
 
 > My name is Daniel Smrecnik and I am currently a student at HTL-Mössingerstrasse. I am passionate about codeing, working on 
 new projects and progressively learning new things.
