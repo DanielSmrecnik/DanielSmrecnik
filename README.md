@@ -1,4 +1,3 @@
-![Header](https://github.com/DanielSmrecnik/DanielSmrecnik/blob/main/images/Github%20Banner.jpg "Header")
 # Hi, I am Daniel 👋🏻🧑🏻‍💻
 
 [![Twitter](https://img.shields.io/badge/SocialMedia-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=0099ff)](https://twitter.com/dani_smrec)
